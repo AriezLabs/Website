@@ -1,3 +1,1 @@
-Source code of http://www.ariezlabs.com
-
-*Possibly* more up-to-date and/or broken version available on https://ariezlabs.github.io/Website/
+This is my personal website. It's (hopefully) online at http://ariezlabs.com hosted through GitHub Pages.
